@@ -1,0 +1,13 @@
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\premierProget\premierProget\obj\Debug\MainWindow.baml
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\premierProget\premierProget\obj\Debug\MainWindow.g.cs
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\premierProget\premierProget\obj\Debug\App.g.cs
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\premierProget\premierProget\obj\Debug\premierProjet_MarkupCompile.cache
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\premierProget\premierProget\obj\Debug\premierProjet_MarkupCompile.lref
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\premierProget\premierProget\bin\Debug\premierProjet.exe.config
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\premierProget\premierProget\bin\Debug\premierProjet.exe
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\premierProget\premierProget\bin\Debug\premierProjet.pdb
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\premierProget\premierProget\obj\Debug\premierProjet.g.resources
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\premierProget\premierProget\obj\Debug\premierProjet.Properties.Resources.resources
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\premierProget\premierProget\obj\Debug\premierProget.csproj.GenerateResource.Cache
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\premierProget\premierProget\obj\Debug\premierProjet.exe
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\4)graphique\xmal\premierProget\premierProget\obj\Debug\premierProjet.pdb
