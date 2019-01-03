@@ -3,7 +3,7 @@
 réaliser en C#     
 Renseignements:      
 | Header 1          |   header 2      |            |          
-| ----------------  | : ------------: |  ---------:|   
+| ----------------  | : ------------: |  --------: |   
 | nom               |        1        |            |    
 | prénom            |        2        |            |      
 | nationnalité      |        3        |            |    
