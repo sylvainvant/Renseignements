@@ -11,7 +11,9 @@ Renseignements:
 | date de naissance |        5        |            |     
      
      
- Markdown | Moins | Joli — | — | — s’aligne | encore | joliment 1 | 2 | 3    
+{% highlight bash %} Markdown | Moins | Joli — | — | — s’aligne | encore | joliment 1 | 2 | 3 {% endhighlight %} 
      
+      
+         
 Pour le lancer :     
 premierProjet/premierProget/bin/Debug/premierProjet.exe
