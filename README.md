@@ -11,8 +11,11 @@ Renseignements:
 | date de naissance |        5        |            |     
      
      
-{% highlight bash %} Markdown | Moins | Joli — | — | — s’aligne | encore | joliment 1 | 2 | 3 {% endhighlight %} 
-     
+| Titre 1       |     Titre 2     |        Titre 3 |
+| :------------ | :-------------: | -------------: |
+| Colonne       |     Colonne     |        Colonne |
+| Alignée à     |   Alignée au    |      Alignée à |
+| Gauche        |     Centre      |         Droite |     
       
          
 Pour le lancer :     
